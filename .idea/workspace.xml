@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cbe6c226-4199-483b-8737-2fe0a5db8c0c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.env" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/AnimeRecommender.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data-exploration.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/text-classification.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vector-search.ipynb" afterDir="false" />
-    </list>
+    <list default="true" id="cbe6c226-4199-483b-8737-2fe0a5db8c0c" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -72,7 +62,7 @@
       <workItem from="1764276816100" duration="8460000" />
       <workItem from="1764285377667" duration="188000" />
       <workItem from="1764285581482" duration="1605000" />
-      <workItem from="1764287214616" duration="2639000" />
+      <workItem from="1764287214616" duration="3249000" />
     </task>
     <servers />
   </component>
